@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println(1000);
 		System.out.println(2000);
 		System.out.println(3000);
+		System.out.println(5000);
 	}
 
 }
